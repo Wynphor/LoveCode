@@ -6,6 +6,6 @@
 
 - 进阶玩法：
 
-  所需环境：Visual Studio + EasyX Graphics Library
+  所需环境：Windows + Visual Studio + EasyX Graphics Library
 
   打开Visual Studio -> 创建空项目 -> 添加现有源代码 -> 改成你自己想要的效果 -> 编译运行
